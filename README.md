@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phuc (Felix)</h1>
 <h3 align="center">A passionate Data Scientist and Developer from Vietnam.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog">
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 - 🔭 I’m currently working on [One Peace NFT project](https://www.onepeacenft.com/)
 
