@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phuc Tran</h1>
+<h1 align="center">Hi 👋, I'm Phuc (Felix)</h1>
 <h3 align="center">A passionate Data Scientist and Developer from Vietnam.</h3>
 
 - 🔭 I’m currently working on [One Peace NFT project](https://www.onepeacenft.com/)
