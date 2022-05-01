@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phuc (Felix)</h1>
 <h3 align="center">A passionate Data Scientist and Developer from Vietnam.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=1200x900&vertical=top">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
 
 - 🔭 I’m currently working on [One Peace NFT project](https://www.onepeacenft.com/)
 
