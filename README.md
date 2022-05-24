@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
 
-- 🔭 I’m currently working on [One Peace NFT project](https://www.onepeacenft.com/)
+- 🔭 I’m currently working on my own project :D
 
-- 🌱 I’m currently learning **C++ and Solidity 0.4**
+- 🌱 I’m currently learning **C++ and Java**
 
 - 💬 Ask me about **Database, SQL**
 
