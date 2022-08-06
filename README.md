@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
 
-- 🔭 I’m currently working on my own project :D
+- 🔭 I’m currently working on my own E-commerce project :D
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning **MySQL and Java**
 
-- 💬 Ask me about **Database, SQL**
+- 💬 Ask me about **Database, MySQL**
 
 - 📫 How to reach me **tranhoangphuc2001@gmail.com**
 
