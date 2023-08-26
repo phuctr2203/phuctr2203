@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Phuc (Felix)</h1>
+<h1 align="center">Hi 👋, I'm Phuc Tran (Felix)</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
+I'm genuinely passionate about utilizing data to address real-world challenges, and this fervor drives my aspiration to become a proficient data scientist or machine learning engineer
 
 - 🔭 I’m currently working on **Document AI and Data Augmentation**
 
-- 📫 How to reach me **tranhoangphuc2001@gmail.com**
+- 📫 How to reach me: **tranhoangphuc2001@gmail.com**
 
 - ⚡ Hobbies **I love basketball and music!**
 
