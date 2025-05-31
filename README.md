@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
 <p>A highly motivated and detail-oriented Software Engineer with expertise in Azure and Azure AI Services, certified with Azure AI Engineer Associate, developing full-stack applications using .NET, Python, and Angular. Passionate about delivering innovative solutions through cloud technologies and AI-driven automation. </p>
-<br><br>
+<br>
 <p>A strong team player who actively listens, collaborates, and supports ideas, making teamwork seamless and productive. Friendly, easy to work with, and always eager to learn and adapt to new technologies to enhance performance and efficiency.</p>
 
 - 📫 How to reach me: **tranhoangphuc2001@gmail.com**
