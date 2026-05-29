@@ -8,8 +8,6 @@ AI Engineer passionate about building practical AI solutions for people and busi
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+%26+RAG+Developer;AI+Agents+Builder;FastAPI+%26+Python+Developer&center=true&width=500&height=45">
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
-
 ## 🚀 About Me
 
 * 🧠 AI Engineer focused on:
