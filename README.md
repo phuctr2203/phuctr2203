@@ -108,10 +108,16 @@ Document AI platform focused on intelligent document refinement, AI-assisted pro
 
 # 🏆 Certifications
 
-* Microsoft Certified: Azure AI Engineer Associate
-* Microsoft Certified: Azure AI Fundamentals
-* Microsoft Certified: Azure Fundamentals
-* IBM Data Science Professional Certificate
+* 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+  🔗 https://learn.microsoft.com/en-us/users/tranhoangphucvn-2285/credentials/8d1a5e3aed82995c
+
+* 🥈 Microsoft Certified: Azure AI Fundamentals (AI-900)
+  🔗 https://learn.microsoft.com/en-us/users/tranhoangphucvn-2285/credentials/28151ace2ea2aac
+
+* 🥉 Microsoft Certified: Azure Fundamentals (AZ-900)
+  🔗 https://learn.microsoft.com/en-us/users/tranhoangphucvn-2285/credentials/a22e209e0315f79
+
+* 📘 IBM Data Science Professional Certificate
 
 ---
 
