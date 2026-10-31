@@ -32,7 +32,9 @@ AI Solution Engineer building reliable multi-agent and Agentic RAG systems that 
 <img src="https://img.shields.io/badge/RAGAS-6E40C9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
@@ -64,6 +66,7 @@ AI Solution Engineer building reliable multi-agent and Agentic RAG systems that 
 
 | Project | What it does | Tech |
 |---|---|---|
+| ⚡ [**n8n-ai-lead-triage**](https://github.com/phuctr2203/n8n-ai-lead-triage) | Qualifies, scores, saves to CRM and routes every inbound lead in seconds: LLM extracts, code decides | `n8n` `Gemini` `AI Automation` |
 | 🔭 [**failsight**](https://github.com/phuctr2203/failsight) | Local-first observability and resilience for multi-agent workflows: live execution graph, retries, timeouts, fallbacks, circuit breakers *(pre-alpha)* | `Python` `Agents` `Observability` |
 | 🕸️ [**agent-canvas**](https://github.com/phuctr2203/agent-canvas) | Visual sandbox for multi-agent orchestration patterns (sequential, parallel, review loop…) with real model calls | `TypeScript` `Ollama` `Multi-Agent` |
 | 🧩 [**ProtoFlow**](https://github.com/phuctr2203/ProtoFlow) | Turns a client discovery meeting into a demoable MVP: requirement extraction, human approval gate, build, QA | `Python` `Agentic Workflow` |
