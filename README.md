@@ -1,53 +1,47 @@
 # Hi 👋, I'm Phuc Tran (Felix)
 
 <h3 align="center">
-AI Engineer passionate about building practical AI solutions for people and businesses
+AI Solution Engineer building reliable multi-agent and Agentic RAG systems that improve real business processes
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+%26+RAG+Developer;AI+Agents+Builder;FastAPI+%26+Python+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%40+ELCA+Vietnam;Multi-Agent+Systems+Builder;Agentic+RAG+%26+Document+AI;Python+%2B+C%23%2F.NET&center=true&width=500&height=45">
 </p>
 
 ## 🚀 About Me
 
-* 🧠 AI Engineer focused on:
-
-  * LLM Applications
-  * RAG Systems
-  * AI Agents
-  * Document AI
-  * Semantic Search
-  * NLP
-
-* 💡 Passionate about helping people and companies apply AI effectively in their business and daily work
-
-* ⚙️ Building scalable AI systems using Python, FastAPI, Azure AI, LangChain, CrewAI, and Vector Databases
-
-* 🌱 Currently exploring:
-
-  * Agentic AI Systems
-  * Multi-Agent Workflows
-  * Advanced RAG Architectures
-  * LLM Evaluation & Observability
-
-* 📫 Reach me at: **[tranhoangphuc2001@gmail.com](mailto:tranhoangphuc2001@gmail.com)**
-
+* 💼 **AI Engineer at [ELCA Vietnam](https://www.elca.ch)** (Apr 2026 – present), building an enterprise multi-agent platform that turns client requirements into consultant recommendations, effort estimates, and pricing guidance for bidding teams
+* 🏢 Previously **Software Engineer 2 at PwC Vietnam**: Agentic RAG policy chatbot (LangGraph), and Azure AI Document Intelligence pipelines used by partners and C-level stakeholders
+* 🧠 4 years across software engineering and enterprise AI: Python AI orchestration integrated with C#/.NET backend services
+* 📏 I care about evaluation and observability: LangSmith tracing, and RAGAS for retrieval quality, faithfulness, and answer quality
+* 🤖 I use AI-assisted development (Claude Code, Codex) to move faster, and I review and validate everything it produces
+* 🎓 Bachelor of IT, RMIT University Vietnam
+* 📫 Reach me at **[tranhoangphuc2001@gmail.com](mailto:tranhoangphuc2001@gmail.com)**
 * ⚡ Fun fact: I love gaming 🎮 and music 🎵
 
 ---
 
 # 🛠️ Tech Stack
 
-## AI / LLM
+## Agentic AI & LLM
 
 <p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAGAS-6E40C9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Database-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+## Retrieval & Data
+
+<p>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ## Backend & Cloud
@@ -55,60 +49,34 @@ AI Engineer passionate about building practical AI solutions for people and busi
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Document_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Advanced RAG Chatbot
-
-🔗 Repository:
-https://github.com/phuctr2203/advanced-rag-chatbot
-
-Enterprise-style RAG chatbot leveraging LLMs, semantic retrieval, embeddings, and vector databases to deliver context-aware AI responses and intelligent knowledge retrieval.
-
-### Tech:
-
-`Python` `FastAPI` `LLMs` `RAG` `Vector DB` `Semantic Search`
-
----
-
-## 🎤 InterviewHero
-
-🔗 Repository:
-https://github.com/phuctr2203/InterviewHero
-
-AI-powered interview preparation platform using LLM workflows and AI automation to help users practice interviews, improve communication, and prepare effectively.
-
-### Tech:
-
-`Python` `LLMs` `AI Workflow` `FastAPI`
-
----
-
-## 📄 DocRefine
-
-🔗 Repository:
-https://github.com/phuctr2203/DocRefine
-
-Document AI platform focused on intelligent document refinement, AI-assisted processing, and workflow automation for enterprise use cases.
-
-### Tech:
-
-`Document AI` `NLP` `FastAPI` `Azure AI`
+| Project | What it does | Tech |
+|---|---|---|
+| 🔭 [**failsight**](https://github.com/phuctr2203/failsight) | Local-first observability and resilience for multi-agent workflows: live execution graph, retries, timeouts, fallbacks, circuit breakers *(pre-alpha)* | `Python` `Agents` `Observability` |
+| 🕸️ [**agent-canvas**](https://github.com/phuctr2203/agent-canvas) | Visual sandbox for multi-agent orchestration patterns (sequential, parallel, review loop…) with real model calls | `TypeScript` `Ollama` `Multi-Agent` |
+| 🧩 [**ProtoFlow**](https://github.com/phuctr2203/ProtoFlow) | Turns a client discovery meeting into a demoable MVP: requirement extraction, human approval gate, build, QA | `Python` `Agentic Workflow` |
+| 🎤 [**InterviewHero**](https://github.com/phuctr2203/InterviewHero) | Multi-agent recruitment automation, from CV analysis to interview scheduling | `Python` `LLMs` `Multi-Agent` |
+| 📄 [**DocRefine**](https://github.com/phuctr2203/DocRefine) | Converts PDF/PPTX into vision-parsed, RAG-ready Markdown synced to a vector database | `FastAPI` `Document AI` `RAG` |
+| 🛍️ [**e-commerce-agent**](https://github.com/phuctr2203/e-commerce-agent) | Shopping agent that combines LLM orchestration with deterministic search, ranking, and pricing | `Python` `Tool Calling` |
+| 📊 [**excel2pdf**](https://github.com/phuctr2203/excel2pdf) | MIT-licensed pure-Python library converting Excel workbooks to PDF, with formatting, images, and charts | `Python` `Open Source` |
 
 ---
 
 # 🏆 Certifications
 
-* 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+* 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102), 2025
   🔗 https://learn.microsoft.com/en-us/users/tranhoangphucvn-2285/credentials/8d1a5e3aed82995c
 
 * 🥈 Microsoft Certified: Azure AI Fundamentals (AI-900)
@@ -117,7 +85,8 @@ Document AI platform focused on intelligent document refinement, AI-assisted pro
 * 🥉 Microsoft Certified: Azure Fundamentals (AZ-900)
   🔗 https://learn.microsoft.com/en-us/users/tranhoangphucvn-2285/credentials/a22e209e0315f79
 
-* 📘 IBM Data Science Professional Certificate
+* 📘 IBM Data Science Professional Certificate (Coursera, 2022)
+* 📘 Machine Learning with Python (Coursera, 2022)
 
 ---
 
